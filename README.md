@@ -32,7 +32,7 @@ Backend: Node.js
 Validation: JavaScript (client-side)
 
 Project Structure
-IBM-NJ-Client-Side-Validation/
+NM-Project
 │
 ├─ server.js           # Node.js server
 ├─ index.html          # Main HTML form
@@ -65,8 +65,7 @@ node server.js
 Open index.html in your browser and test the form.
 
 Demo
-
-
+https://abishek2006007.github.io/NM-PROJECT/
 
 Challenges & Solutions
 

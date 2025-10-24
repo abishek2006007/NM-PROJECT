@@ -44,7 +44,7 @@ How to Run Locally
 
 Clone the repository:
 
-git clone https://github.com/Balamurugan200526/NM-Project.git
+git clone https://github.com/abishek2006007/NM-PROJECT.git
 
 
 Navigate to the project folder:
@@ -66,7 +66,6 @@ Open index.html in your browser and test the form.
 
 Demo
 
-https://balamurugan200526.github.io/NM-Project/
 
 
 Challenges & Solutions
